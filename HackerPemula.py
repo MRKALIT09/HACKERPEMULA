@@ -89,10 +89,10 @@ idfromteman = []
 def masuk():
 	os.system('clear')
 	print logo
-	print "\033[1;97m [=>]                                     [=>]"
+	print "\033[1;97m                                      "
 	print "\033[1;97m  [\033[1;97m01\033[1;97m]\033[1;96m\033[1;97m[✓]LOGIN USING TOKEN FB"
-	print "\033[1;97m  [\033[1;91m00\033[1;97m]\033[1;96m\033[1;97m [✓]EXIT TOOLS"
-	print "\033[1;97m [=>]                                     [=>]"
+	print "\033[1;97m  [\033[1;91m00\033[1;97m]\033[1;96m\033[1;97m[✓]EXIT TOOLS"
+	print "\033[1;97m                                      "
 	pilih_masuk()
 
 def pilih_masuk():
